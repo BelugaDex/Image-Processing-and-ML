@@ -1,4 +1,4 @@
-I = imread('C:/Users/BiswarajDey/OneDrive/Documents/Biswa VS CODE/Matlab Projects/Images/coin.png');
+I = imread('C:/Users/Images/coin.png');
 figure,imshow(I); 
 I1 = imnoise(I, 'salt & pepper',0.05) ;
 figure, imshow(I1); 
