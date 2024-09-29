@@ -1,4 +1,4 @@
-I = imread('C:/Users/BiswarajDey/OneDrive/Documents/Biswa VS CODE/Matlab Projects/Images/moon.png');
+I = imread('C:/Users/moon.png');
 figure,imshow(I); 
 Id = im2double(I); 
 I_low = imadjust(Id, [0, 1], [1,0]);  
