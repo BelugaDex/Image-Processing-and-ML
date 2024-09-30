@@ -1,4 +1,4 @@
-I = imread('C:/Users/BiswarajDey/OneDrive/Documents/Biswa VS CODE/Matlab Projects/Images/coin.png');
+I = imread('C:/Users/coin.png');
 
 % Convert to grayscale if the image is in color
 if size(I, 3) == 3
