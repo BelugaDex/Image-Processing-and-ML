@@ -1,7 +1,7 @@
-peppers = imread("C:/Users/BiswarajDey/OneDrive/Documents/Biswa VS CODE/Matlab Projects/Images/peppers.jpg");
-I=imread("C:/Users/BiswarajDey/OneDrive/Documents/Biswa VS CODE/Matlab Projects/Images/peppers.jpg");
+peppers = imread("C:/Users/peppers.jpg");
+I=imread("C:/Users/peppers.jpg");
 % Read the RGB image
-I = imread('C:/Users/BiswarajDey/OneDrive/Documents/Biswa VS CODE/Matlab Projects/Images/peppers.jpg');
+I = imread('C:/Users/peppers.jpg');
 
 % Extract the three color channels
 R = I(:,:,1);
